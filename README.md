@@ -7,5 +7,5 @@
 - 🙌 I’m currently volunteering at Code Nation! 
 
 ### Top Projects 👀
-- 🙌 [Vocabulary Builder](https://play.google.com/store/apps/details?id=com.herokuapp.backend.another&hl=en_US&gl=US)! 
-- 🙌 [Stock Market Watchlist](https://play.google.com/store/apps/details?id=com.stonks.watchlist&hl=en_US&gl=US)! 
+- 🙌 [Vocabulary Builder App](https://play.google.com/store/apps/details?id=com.herokuapp.backend.another&hl=en_US&gl=US)
+- 🙌 [Stock Market Watchlist](https://play.google.com/store/apps/details?id=com.stonks.watchlist&hl=en_US&gl=US)
